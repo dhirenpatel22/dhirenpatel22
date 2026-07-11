@@ -6,7 +6,7 @@ Currently Technical Lead at [Curotec](https://www.curotec.com) (remote, US–Ind
 
 ## 🔎 ShieldScope – Site Security Scanner
 
-My plugin in the official [WordPress.org directory](https://wordpress.org/plugins/): a read-only security audit for WordPress sites — scans for vulnerabilities, malware, outdated software, and misconfigurations. No writes, no surprises.
+My plugin in the official [WordPress.org directory](https://wordpress.org/plugins/shieldscope-site-security-scanner/): a read-only security audit for WordPress sites — scans for vulnerabilities, malware, outdated software, and misconfigurations. No writes, no surprises.
 
 Built from the same OWASP-hardening work I do on enterprise production sites: multi-layer authentication, input sanitization, closing vulnerability classes before deployment.
 
