@@ -4,8 +4,6 @@ Web Solutions Architect & Technical Lead. I've spent 12 years building enterpris
 
 Currently Technical Lead at [Curotec](https://www.curotec.com) (remote, distributed team) — promoted from Fullstack Developer to build and lead the practice. I own architecture, security, and performance decisions from kickoff to production, and run a maintenance program covering 80–90 active WordPress projects.
 
-
-
 ## 🔎 ShieldScope – Site Security Scanner
 
 My plugin in the official [WordPress.org directory](https://wordpress.org/plugins/shieldscope-site-security-scanner/): a read-only security audit for WordPress sites — scans for vulnerabilities, malware, outdated software, and misconfigurations. No writes, no surprises.
@@ -19,8 +17,8 @@ Built from the same OWASP-hardening work I do on enterprise production sites: mu
 - **Modern PHP** — OOP, Composer autoloading, dependency injection, PHPUnit; legacy procedural → framework-aligned refactors
 - **Performance** — 5s → 2.5s load times, +35% Core Web Vitals across client portfolios, caching and server-side optimization
 - **DevOps** — CI/CD on GitHub/Bitbucket (70% fewer deployment errors), zero-downtime migrations, Linux server operations end-to-end
+- **Production support** — First responder for urgent production issues and primary solution provider for client problems across the portfolio; fast diagnosis, efficient and scalable fixes
 - **AI-assisted development** — GenAI across the full lifecycle (research, estimation, coding, testing, deployment): Claude Code, Codex, OpenAI API, custom instruction files, n8n workflow automation
-- **Production support** — First responder for urgent production issues across the client portfolio; fast diagnosis and resolution when something breaks.
 
 ## Numbers I stand behind
 
