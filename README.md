@@ -20,6 +20,7 @@ Built from the same OWASP-hardening work I do on enterprise production sites: mu
 - **Performance** — 5s → 2.5s load times, +35% Core Web Vitals across client portfolios, caching and server-side optimization
 - **DevOps** — CI/CD on GitHub/Bitbucket (70% fewer deployment errors), zero-downtime migrations, Linux server operations end-to-end
 - **AI-assisted development** — GenAI across the full lifecycle (research, estimation, coding, testing, deployment): Claude Code, Codex, OpenAI API, custom instruction files, n8n workflow automation
+- **Production support** — First responder for urgent production issues across the client portfolio; fast diagnosis and resolution when something breaks.
 
 ## Numbers I stand behind
 
