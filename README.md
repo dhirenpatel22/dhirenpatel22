@@ -31,6 +31,7 @@ Built from the same OWASP-hardening work I do on enterprise production sites: mu
 | Uptime | 99.9% |
 | Framework impact | Dev time cut 50% across 200+ projects |
 | Active maintenance portfolio | 80–90 WordPress projects |
+| Concurrent client site management | 5–8 sites (build/delivery, distinct from maintenance portfolio) |
 
 ## Certifications
 
