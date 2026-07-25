@@ -2,7 +2,7 @@
 
 Web Solutions Architect & Technical Lead. I've spent 12 years building enterprise WordPress, WooCommerce, and PHP platforms — the kind that serve 100K+ users, hold 99.9% uptime, and don't page anyone at 2 AM.
 
-Currently Technical Lead at [Curotec](https://www.curotec.com) (remote, distributed team) — promoted from Fullstack Developer to build and lead the practice. I own architecture, security, and performance decisions from kickoff to production, and run a maintenance program covering 80–90 active WordPress projects.
+Most recently, Technical Lead at Curotec (remote, distributed team) — promoted from Fullstack Developer to build and lead the practice. I owned architecture, security, and performance decisions from kickoff to production, and ran a maintenance program covering 80–90 active WordPress projects.
 
 ## 🔎 ShieldScope – Site Security Scanner
 
