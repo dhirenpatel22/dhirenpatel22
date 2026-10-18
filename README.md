@@ -1,6 +1,6 @@
 # Hi, I'm Dhiren Patel
 
-Principal full-stack engineer and founder of Exivon Tech. For 13 years I've built and run web platforms for clients in North America, Europe, Canada, Asia, Australia, and the Middle East: enterprise WordPress, e-commerce, and the cloud infrastructure and AI tooling around them.
+Principal full-stack engineer and founder of [Exivon Tech](https://exivontech.com). For 13 years I've built and run web platforms for clients in North America, Europe, Canada, Asia, Australia, and the Middle East: enterprise WordPress, e-commerce, and the cloud infrastructure and AI tooling around them.
 
 I work independently, either embedded in a client's team on contract or delivering full projects through Exivon Tech.
 
@@ -47,6 +47,6 @@ Advanced Professional WordPress Developer (Automattic) · WP VIP ×3: Architectu
 
 Contract or fractional engineering, or full project delivery through Exivon Tech.
 
-[dhirenpatel.me](https://dhirenpatel.me) · [LinkedIn](https://www.linkedin.com/in/dhirenpatel22/) · [WordPress.org](https://profiles.wordpress.org/dhirenpatel22/) · [Stack Overflow](https://stackoverflow.com/users/3890887)
+[dhirenpatel.me](https://dhirenpatel.me) · [exivontech.com](https://exivontech.com) · [LinkedIn](https://www.linkedin.com/in/dhirenpatel22/) · [WordPress.org](https://profiles.wordpress.org/dhirenpatel22/) · [Stack Overflow](https://stackoverflow.com/users/3890887)
 
-Contract inquiries: contact@dhirenpatel.me
+Contract inquiries: contact@dhirenpatel.me · Projects: hello@exivontech.com
